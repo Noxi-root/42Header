@@ -1,6 +1,6 @@
-[![translate](https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/Noxi-root/42Header?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
-
 <img height="87" weight="87" align="right" src="https://raw.githubusercontent.com/Noxi-root/42Header/refs/heads/main/pics/42.png">
+
+[![translate](https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/Noxi-root/42Header?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 ##  42 Header Nasıl Yüklenir
 
