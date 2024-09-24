@@ -89,9 +89,6 @@ zsh kur.sh
 <img src="https://raw.githubusercontent.com/Noxi-root/42Header/refs/heads/main/pics/vim.png">
 
 * ##### `Vim` açıldıktan sonra `:Baslik`  yazıp enterlayın ve başlığınız hazır.
-```
-:Baslik
-```
 
 >⚠️ `Vim`'in tüm komutlarını görmek için [*"TIKLAYINIZ"*](https://vim.rtorr.com/lang/tr)
 
