@@ -98,5 +98,5 @@ zsh kur.sh
 ---
 
 <img src="https://raw.githubusercontent.com/Noxi-root/42Header/refs/heads/main/pics/baslik.png">
-<img src="https://raw.githubusercontent.com/Noxi-root/42Header/refs/heads/main/pics/haz%C4%B1r-basl%C4%B1k.png">
+<img height="87" weight="87" src="https://raw.githubusercontent.com/Noxi-root/42Header/refs/heads/main/pics/haz%C4%B1r-basl%C4%B1k.png">
 
